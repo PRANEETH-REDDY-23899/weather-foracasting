@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PRANEETH-REDDY-23899/static/css/main.6c61848f.css",
+    "main.js": "/PRANEETH-REDDY-23899/static/js/main.844f7c50.js",
+    "static/js/787.d9312eb8.chunk.js": "/PRANEETH-REDDY-23899/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/PRANEETH-REDDY-23899/index.html",
+    "main.6c61848f.css.map": "/PRANEETH-REDDY-23899/static/css/main.6c61848f.css.map",
+    "main.844f7c50.js.map": "/PRANEETH-REDDY-23899/static/js/main.844f7c50.js.map",
+    "787.d9312eb8.chunk.js.map": "/PRANEETH-REDDY-23899/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c61848f.css",
+    "static/js/main.844f7c50.js"
+  ]
+}
